@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...rust
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...divyanshgautam243@gmail.com
-- 😄 Pronouns: ...bro
+- 😄 Pronouns: ...they/them
 - ⚡ Fun fact: ...left handed 
 
 <!---
