@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divy-abh
 - 👀 I’m interested in ...learning new things
-- 🌱 I’m currently learning ...rust
+- 🌱 I’m currently learning ...cpp
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...divyanshgautam243@gmail.com
 - 😄 Pronouns: ...they/them
