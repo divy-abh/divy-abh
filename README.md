@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...projects
 - 📫 How to reach me ...divyanshgautam243@gmail.com
 - 😄 Pronouns: ...they/them
-- ⚡ Fun fact: ...left handed 
+- ⚡ Fun fact: left handed 
 
 <!---
 divy-abh/divy-abh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
